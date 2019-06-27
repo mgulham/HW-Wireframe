@@ -1,0 +1,23 @@
+body {background-color: gray;
+
+}
+.header {float: center;
+    text-align: center;
+    width: 90%;
+    padding: 50px;
+    border: 20px solid gray; 
+    background: lightgray;
+    font-size: 35px;
+
+}
+
+.nav {float: center;
+    text-align: center;
+    width: 90%;
+    padding: 50px;
+    border: 20px solid gray;
+    background: lightgray;
+    font-size: 35px;
+    
+}   
+

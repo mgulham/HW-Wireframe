@@ -1,4 +1,4 @@
-# HW-Wireframe
+# simple-html-layout-with-css
 
 Creating a html page to practice learning with basic html and css
  
